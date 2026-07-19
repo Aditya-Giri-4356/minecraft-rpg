@@ -1,6 +1,6 @@
 # Minecraft RPG
 
-A fun 3D Minecraft-style RPG/RNG game built entirely in Python using Tkinter! 
+A fun 3D Minecraft-style RPG game built entirely in Python using Tkinter! 
 
 ### Controls:
 - **W, A, S, D**: Move around
