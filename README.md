@@ -12,6 +12,16 @@ A fun 3D Minecraft-style RPG/RNG game built entirely in Python using Tkinter!
 - **G**: Plant seeds on farmland or harvest grown wheat
 - **1-9, 0, P**: Select blocks from the dock
 
+### 🌐 Play in your Browser (Cloud VM)
+*Note: GitHub's security policies do not allow running VMs or interactive games directly inside the README page itself.*
+
+However, you can play this game directly in your browser using a free Cloud VM on Replit! 
+Click the button below to instantly spin up a VM and play the game online:
+
+[![Run on Replit](https://replit.com/badge/github/Aditya-Giri-4356/minecraft-rpg)](https://replit.com/github/Aditya-Giri-4356/minecraft-rpg)
+
+---
+
 ### Play it in IDLE!
 You don't need to download any files if you don't want to. Because this uses standard Python (Tkinter), you can play it directly in Python IDLE!
 Just copy the entire code block below, paste it into a new file in Python IDLE, and press Run (F5).
